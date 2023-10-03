@@ -1,5 +1,6 @@
 #!/bin/bash
-type pwd chmod u+x
+type pwd
+
 
 
 
