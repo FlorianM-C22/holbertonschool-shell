@@ -1,3 +1,4 @@
 #!/bin/bash
-type $pwd chmod u+x file
+type $pwd
+
 
